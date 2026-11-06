@@ -1,0 +1,11 @@
+# Secret Keys
+.env
+main.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+.venv/
